@@ -1,0 +1,10 @@
+# Local database files
+backend/db*.js
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded files and private data
+backend/uploads/*
+!backend/uploads/.gitkeep
+uploads/
